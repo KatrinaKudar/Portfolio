@@ -7,7 +7,7 @@
 - B.B.A., Accounting and Finance | The University of Wisconsin at Milwaukee (_Dec 2009_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Data-Driven Headcount Analytics Dashboard With Story
 ![HR_TableauPic](/HR_TableauPic.jpg)
 [Tableau Live dashboard](https://public.tableau.com/views/FinalProjectHeadcountManagement2024alltabs/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
