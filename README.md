@@ -1,4 +1,4 @@
-# Financial Data Analyst
+# Financial Data Analyst and Data Science Professional
 
 #### Technical Skills: Python, R, SQL, Tableau, Power Bi
 ## Education
