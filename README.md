@@ -23,7 +23,7 @@ The dashboard continuously tracks headcount data from various sources, ensuring 
 How will it track progress toward a goal?
 The dashboard includes goal-setting features that allow users to set and monitor headcount targets. Progress towards these goals is visualized through interactive charts and graphs, making it easy to see how current staffing levels compare to desired outcomes. This helps ensure that the organization stays on track with its strategic workforce planning.
 
-## Python
+## Python Projects
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![PicName](/breadcrums/to/my/fileassets/img/PicName.jpeg)
