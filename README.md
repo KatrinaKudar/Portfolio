@@ -7,8 +7,8 @@
 
 ## Data Visualization Projects
 ### Tableau Data-Driven Headcount Analytics Dashboard + Story
-![HR_TableauPic.jpg](/breadcrums/to/my/fileassets/img/PicName.jpeg)
-[Publication](https://www.addmyfile) [CLICK HERE for Tableau Live Dashboard] ([/breadcrums/to/my/fileassets/img/PicName.jpeg](https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+![](/HR_TableauPic.jpg)
+[---> CLICK HERE for Tableau Live Dashboard](https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Project Description:
 Who is it for? This dashboard is designed for:
