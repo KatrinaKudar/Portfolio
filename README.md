@@ -6,11 +6,24 @@
 - M.S., Accounting	| The Keller Graduate School of Management at Chicago (_December 2024_)	 			        		
 - B.B.A., Accounting and Finance | The University of Wisconsin at Milwaukee (_Dec 2009_)
 
-## Projects
-### Data-Driven Headcount Analytics Dashboard With Story
+## Data Vizualization Projects
+### Tableau Data-Driven Headcount Analytics Dashboard + Story
 ![HR_TableauPic](/HR_TableauPic.jpg)
-[Tableau Live dashboard](https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[CLICK HERE for Live dashboard in Tableau](https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+#### Project Description:
+Who is it for? This dashboard is designed for senior leaders, HR professionals, and financial analysts who need to make informed decisions about workforce management. It is particularly useful for organizations looking to optimize their headcount, manage costs, and align staffing levels with strategic goals.
+
+Q&A Target:
+How will it help in decision-making? The dashboard provides real-time insights into headcount trends, enabling leaders to make data-driven decisions about hiring, promotions, and workforce reductions. By visualizing key metrics such as turnover rates, departmental headcount, and cost per employee, decision-makers can identify areas for improvement and allocate resources more effectively.
+
+How will it monitor a system?
+The dashboard continuously tracks headcount data from various sources, ensuring that the information is always up-to-date. It includes alerts and notifications for significant changes or anomalies, allowing HR and finance teams to respond promptly to any issues.
+
+How will it track progress toward a goal?
+The dashboard includes goal-setting features that allow users to set and monitor headcount targets. Progress towards these goals is visualized through interactive charts and graphs, making it easy to see how current staffing levels compare to desired outcomes. This helps ensure that the organization stays on track with its strategic workforce planning.
+
+## Python
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![PicName](/breadcrums/to/my/fileassets/img/PicName.jpeg)
