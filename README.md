@@ -29,11 +29,48 @@ The dashboard continuously tracks headcount data from various sources, ensuring 
 
 How will it track progress toward a goal?
 The dashboard includes goal-setting features that allow users to set and monitor headcount targets. Progress towards these goals is visualized through interactive charts and graphs, making it easy to see how current staffing levels compare to desired outcomes. This helps ensure that the organization stays on track with its strategic workforce planning.
-### Tableau Data-Driven Headcount Analytics Dashboard + Story
-!HR_TableauPic
-CLICK HERE for Live dashboard in Tableau
 
-<iframe src="https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" width="800" height="600"></iframe>
+### Embedded Tableau Dashboard
+<div class='tableauPlaceholder' id='viz1727387480488' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='HR Analytics Dashboard' src='https://public.tableau.com/static/images/Ti/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard/1_rss.png' style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/Ti/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+    </object>
+</div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1727387480488');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width='1580px';
+        vizElement.style.height='927px';
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width='1580px';
+        vizElement.style.height='927px';
+    } else {
+        vizElement.style.width='100%';
+        vizElement.style.height='2477px';
+    }
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 
 ## Python Projects
