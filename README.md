@@ -1,14 +1,14 @@
 # Financial Data Analyst and Data Science Professional
 #### Technical Skills: Python, R, SQL, Tableau, Power Bi
 ## Education
-- Certification, Data Science & Data Analytics | The University of California at Santa Cruz (_Nov 2024_)								       		
-- M.S., Accounting	| The Keller Graduate School of Management at Chicago (_December 2024_)	 			        		
+- Certification, Data Science & Data Analytics | The University of California at Santa Cruz (_Oct 2024_)								       		
+- M.S., Accounting	| The Keller Graduate School of Management at Chicago (_wip_)	 			        		
 - B.B.A., Accounting and Finance | The University of Wisconsin at Milwaukee (_Dec 2009_)
 
 ## Data Visualization Projects
 ### Tableau Data-Driven Headcount Analytics Dashboard + Story
-HR_TableauPic.jpg
-CLICK HERE for Live dashboard in Tableau
+![HR_TableauPic.jpg](/breadcrums/to/my/fileassets/img/PicName.jpeg)
+[Publication](https://www.addmyfile) [CLICK HERE for Tableau Live Dashboard] ([/breadcrums/to/my/fileassets/img/PicName.jpeg](https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 #### Project Description:
 Who is it for? This dashboard is designed for:
