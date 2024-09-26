@@ -14,21 +14,18 @@
 Who is it for? This dashboard is designed for:
 - Senior leaders
 - HR professionals
-- Financial analysts
 
 Purpose:
 - Optimize headcount
 - Manage costs
 - Align staffing levels with strategic goals
 
-Q&A Target:
-How will it help in decision-making? The dashboard provides real-time insights into headcount trends, enabling leaders to make data-driven decisions about hiring, promotions, and workforce reductions. By visualizing key metrics such as turnover rates, departmental headcount, and cost per employee, decision-makers can identify areas for improvement and allocate resources more effectively.
+Decision-making assistance: This dashboard provides real-time insights into headcount trends, enabling leaders to make data-driven decisions about hiring, promotions, and workforce reductions. By visualizing key metrics such as turnover rates, departmental headcount, and cost per employee, decision-makers can identify areas for improvement and allocate resources more effectively.
 
-How will it monitor a system?
-The dashboard continuously tracks headcount data from various sources, ensuring that the information is always up-to-date. It includes alerts and notifications for significant changes or anomalies, allowing HR and finance teams to respond promptly to any issues.
-
-How will it track progress toward a goal?
-The dashboard includes goal-setting features that allow users to set and monitor headcount targets. Progress towards these goals is visualized through interactive charts and graphs, making it easy to see how current staffing levels compare to desired outcomes. This helps ensure that the organization stays on track with its strategic workforce planning.
+KPI  
+Progress Toward a Goal
+KPI and Progress Toward a Goal:  
+The dashboard provides a comprehensive view of headcount targets, enabling users to track progress through dynamic charts and graphs. These visualizations facilitate a clear comparison between current staffing levels and desired outcomes, ensuring alignment with the organization’s strategic workforce planning objectives.
 
 
 ## Python Projects
