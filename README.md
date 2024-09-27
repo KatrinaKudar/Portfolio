@@ -10,23 +10,11 @@
 ![](/HR_TableauPic.jpg)
 [---> CLICK HERE for Tableau Live Dashboard](https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-#### Project Description:
-Who is it for? This dashboard is designed for:
-- Senior leaders
-- HR professionals
 
-Purpose:
-- Optimize headcount
-- Manage costs
-- Align staffing levels with strategic goals
+#### Audience: Senior Leaders and HR Professionals   
+**Description:** This comprehensive dashboard delivers real-time, actionable insights into workforce trends, providing leaders with the tools needed to make informed, data-driven decisions on staffing, attrition, and workforce planning. By visualizing key metrics such as attrition rates, department-level breakdowns, and workforce demographics, decision-makers can pinpoint opportunities for improving employee retention, managing headcount, and aligning resources with organizational goals.
 
-Decision-making assistance: This dashboard provides real-time insights into headcount trends, enabling leaders to make data-driven decisions about hiring, promotions, and workforce reductions. By visualizing key metrics such as turnover rates, departmental headcount, and cost per employee, decision-makers can identify areas for improvement and allocate resources more effectively.
-
-KPI  
-Progress Toward a Goal
-KPI and Progress Toward a Goal:  
-The dashboard provides a comprehensive view of headcount targets, enabling users to track progress through dynamic charts and graphs. These visualizations facilitate a clear comparison between current staffing levels and desired outcomes, ensuring alignment with the organization’s strategic workforce planning objectives.
-
+**KPI Analysis:** The dashboard's KPI section offers a dynamic overview of essential staffing metrics, including current employee count, attrition rates, and average employee age. This high-level analysis is supported by visualizations that facilitate the tracking of workforce trends against strategic targets, ensuring optimal alignment with the company’s overall human capital objectives. By providing a clear picture of employee engagement and turnover, this tool enables leadership to optimize resource allocation, enhance job satisfaction, and promote data-driven workforce strategies.
 
 ## Python Projects
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
