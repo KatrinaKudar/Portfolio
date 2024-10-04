@@ -18,8 +18,8 @@
 ### IBM Cognos Analytics: In-Depth Analysis of Underperforming Products
 #### Features: KPI, Geo Map, Conditional Crosstab, Dynamic Filters, Calculated fields with custom calculations, Trend Line with Prediction Points.
  
-![](/HR_TableauPic.jpg)
-[---> CLICK HERE for Cognos Live Dashboard]([https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%253A%2BTourmond%2BStore%2B%2528Outdoors%2529&action=view&mode=dashboard&subView=model00000192540fd1cd_00000000))
+![](/Cognos.jpg)
+[---> CLICK HERE for COGNOS Live Dashboard]([https://public.tableau.com/views/TigerLinesHeadcountManagement2024HR_Dashboard_17273873024050/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%253A%2BTourmond%2BStore%2B%2528Outdoors%2529&action=view&mode=dashboard&subView=model00000192540fd1cd_00000000))
 
 **Description:** This dashboard provides deep insights into product performance, enabling strategic, data-driven decisions. It visualizes key financial metrics, revenue trends, and geographical sales data to identify underperforming products and inform profitability strategies.
 Revenue Trend and Forecast: Shows average revenue trends and forecasts a slight decrease for the next year with a 95% confidence level.
