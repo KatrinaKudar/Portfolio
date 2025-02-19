@@ -1,9 +1,9 @@
 # Financial Data Analyst and Data Science Professional
 #### Technical Skills: Python, R, SQL, Tableau, Power Bi, IBM Cognos Analytics  
 ## Education
-- Certification, Data Science & Data Analytics | The University of California at Santa Cruz (_Oct 2024_)								       		
-- M.S., Accounting	| The Keller Graduate School of Management at Chicago (_Dec 2024_)		 			        		
-- B.B.A., Accounting and Finance | The University of Wisconsin at Milwaukee (_Dec 2009_)
+- Certification, Data Science & Data Analytics | The University of California at Santa Cruz						       		
+- M.S., Accounting	| The Keller Graduate School of Management at Chicago		 			        		
+- B.B.A., Accounting and Finance | The University of Wisconsin at Milwaukee
 
 ## Data Visualization Projects
 ### Tableau: Headcount Analytics (Dashboard + Story)
